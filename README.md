@@ -305,7 +305,7 @@ psql cyberwave < backup.sql
 
 ## 🔮 Future Enhancements
 
-- [ ] Live threat intelligence integration (PhishTank, OpenPhish, URLhaus, VirusTotal)
+- [ ] Live threat intelligence integration (OpenPhish, URLhaus, VirusTotal)
 - [ ] Advanced D3.js heatmaps for click tracking
 - [ ] PDF certificate generation
 - [ ] Email campaign scheduling

@@ -56,7 +56,6 @@ JWT_REFRESH_EXPIRE=7d
 CORS_ORIGIN=https://yourdomain.com
 
 # API Keys (Optional)
-PHISHTANK_API_KEY=your_phishtank_api_key
 VIRUSTOTAL_API_KEY=your_virustotal_api_key
 ```
 

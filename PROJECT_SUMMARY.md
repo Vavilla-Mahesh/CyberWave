@@ -282,7 +282,6 @@ All documentation is comprehensive and production-ready:
 - Production configuration
 
 ### Ready for Integration
-- PhishTank API
 - OpenPhish API
 - URLhaus API
 - VirusTotal API

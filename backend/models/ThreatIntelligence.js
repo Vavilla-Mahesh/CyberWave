@@ -9,7 +9,7 @@ const ThreatIntelligence = sequelize.define('ThreatIntelligence', {
   },
   source: {
     type: DataTypes.STRING(50),
-    comment: 'PhishTank, OpenPhish, URLhaus, VirusTotal'
+    comment: 'OpenPhish, URLhaus, VirusTotal'
   },
   url: {
     type: DataTypes.TEXT,
