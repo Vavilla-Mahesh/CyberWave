@@ -116,7 +116,6 @@ Complete feature catalog for the CyberWave phishing awareness and training platf
 ### Threat Intelligence Feed
 - ✅ Threat feed page structure
 - ✅ API integration preparation
-- ✅ Support for PhishTank API
 - ✅ Support for OpenPhish API
 - ✅ Support for URLhaus API
 - ✅ Support for VirusTotal API
